@@ -42,22 +42,21 @@ powershell
 
 git clone https://github.com/shaman2025/yoka_exiftool.git; cd yoka_exiftool; pip install -r requirements.txt; python yoka_exiftool.py
 
-Linux/macOS:
+# Linux/macOS:
 bash
 
 git clone https://github.com/shaman2025/yoka_exiftool.git && cd yoka_exiftool && pip install -r requirements.txt && python yoka_exiftool.py
 
 
 
-    PyQt5 installation issues on Linux:
+# PyQt5 installation issues on Linux:
+sudo apt-get install python3-pyqt5
 
 bash
 
 sudo apt-get install python3-pyqt5
 
-    Pillow installation issues:
-
-bash
+# Pillow installation issues:
 
 # On Ubuntu/Debian
 sudo apt-get install python3-pil python3-pil.imagetk
@@ -65,9 +64,11 @@ sudo apt-get install python3-pil python3-pil.imagetk
 # On macOS
 brew install libjpeg libpng
 
-    Common Python issues:
+# On Ubuntu/Debian
+sudo apt-get install python3-pil python3-pil.imagetk
 
-bash
+# On macOS
+brew install libjpeg libpng
 
 # Ensure Python 3.8+
 python --version
