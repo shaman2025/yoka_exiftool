@@ -46,3 +46,34 @@ Linux/macOS:
 bash
 
 git clone https://github.com/shaman2025/yoka_exiftool.git && cd yoka_exiftool && pip install -r requirements.txt && python yoka_exiftool.py
+
+
+
+    PyQt5 installation issues on Linux:
+
+bash
+
+sudo apt-get install python3-pyqt5
+
+    Pillow installation issues:
+
+bash
+
+# On Ubuntu/Debian
+sudo apt-get install python3-pil python3-pil.imagetk
+
+# On macOS
+brew install libjpeg libpng
+
+    Common Python issues:
+
+bash
+
+# Ensure Python 3.8+
+python --version
+
+# Upgrade pip
+pip install --upgrade pip
+
+# Try installing with --user flag
+pip install --user -r requirements.txt
