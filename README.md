@@ -78,3 +78,6 @@ pip install --upgrade pip
 
 # Try installing with --user flag
 pip install --user -r requirements.txt
+
+
+https://github.com/shaman2025/yoka_exiftool/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202026-01-06%2005-58-20.png
