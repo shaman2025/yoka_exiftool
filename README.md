@@ -80,4 +80,11 @@ pip install --upgrade pip
 pip install --user -r requirements.txt
 
 
-https://github.com/shaman2025/yoka_exiftool/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202026-01-06%2005-58-20.png
+<img width="1600" height="709" alt="exif2" src="https://github.com/user-attachments/assets/f96d59db-94df-4b57-9389-6795e079dbe2" />
+<img width="1599" height="786" alt="exif8" src="https://github.com/user-attachments/assets/0388baf5-72c5-4d25-9ba5-fb29ed38c08b" />
+<img width="1599" height="786" alt="exif7" src="https://github.com/user-attachments/assets/4e003117-8efd-43ba-881e-39232ff98f54" />
+<img width="1599" height="786" alt="exif6" src="https://github.com/user-attachments/assets/32ad7b49-b000-46af-80bb-1a1d5c7026dc" />
+<img width="1599" height="786" alt="exif5" src="https://github.com/user-attachments/assets/f204123b-58fe-453b-a9e4-be5f381e7fb9" />
+<img width="1599" height="786" alt="exif4" src="https://github.com/user-attachments/assets/0a907483-64e9-4fe6-9944-77a0400863aa" />
+<img width="1600" height="709" alt="exif3" src="https://github.com/user-attachments/assets/91c4684a-070f-470c-ba79-7ae009442c69" />
+
